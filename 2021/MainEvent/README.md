@@ -8,7 +8,7 @@
 # Community-run Events
 Communities across the world self-organize local .NET Conf events every year to help spread the word about the .NET releases. These events can be virtual or in-person depending on your local area health and safety guidelines. The .NET Foundation is supporting community-run virtual events again this year through their virtual meetup group. We will advertize your community event on the main event website, YouTube and social. 
 
-**Interested in organizing a local event? Stay tuned on how you can sign up! We'll have all the details here soon.**
+**Interested in organizing a local event? Complete [this survey form by October 20](https://aka.ms/dotnetconf-virtual-event) so we can promote your event(s).**
 
 # Event Guidelines
 You are free to organize a presentation, workshop, or hack-a-thon anytime after the main event broadcast until January 31, 2021.
@@ -21,7 +21,7 @@ Session decks will be found in the `Technical` folder as we receive them from sp
 Also take a look at .NET presentations and workshops here: [https://github.com/dotnet-presentations/home](https://github.com/dotnet-presentations/home)
 
 # Creative & Social Copy 
-The `Creative` folder contains creative banners and images you can use to advertise .NET Conf and your own community events. There are a variety of sizes to choose from. You may use any of these banners to advertize the main event itself, or your events in your community. You may add your local meetup name, location and dates to these images. Please do not change the .NET Conf branding. Please contact [dotnetconf@dotnetfoundation.org](mailto:dotnetconf@dotnetfoundation.org) if you have any questions.  
+The [`Creative`](https://github.com/dotnet-presentations/dotNETConf/tree/master/2021/MainEvent/Creative) folder contains creative banners and images you can use to advertise .NET Conf and your own community events. There are a variety of sizes to choose from. You may use any of these banners to advertize the main event itself, or your events in your community. You may add your local meetup name, location and dates to these images. Please do not change the .NET Conf branding. Please contact [dotnetconf@dotnetfoundation.org](mailto:dotnetconf@dotnetfoundation.org) if you have any questions.  
 
 **Please help us promote .NET Conf on social media! On Twitter, use the hashtag [#dotnetconf](https://twitter.com/search?q=%23dotnetconf). Here's some examples of posts you can create to help us.** 
 
@@ -48,6 +48,9 @@ Save the date for #dotNETConf, a free, online conference for everyone in the .NE
 New to #dotNETConf? Check out the videos from last year and save November 9-11 for this year's event.  https://aka.ms/dotnetconf_savedate
 
 ***
+# SWAG
+
+We currently have some digital SWAG you can download on the conference website here [https://dotnetconf.net/swag](https://dotnetconf.net/swag) and we'll be adding a lot more as we get closer to the event!
 
 # Syndication
 
